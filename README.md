@@ -1,3 +1,2 @@
 # uberdemoapp
-
-This is Uber Demo app
+.DS_Store
